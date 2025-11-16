@@ -62,21 +62,6 @@ teaching-materials/
 └── Tutorial09_nonstationary
 
 
-Additional course materials (STAT3005, STAT4003, STAT4010, etc.) may be added in future updates.
-
----
-
-## Purpose of This Repository
-
-This repository highlights my experience in:
-
-- Teaching and communication of statistical concepts  
-- Designing clear and structured learning materials  
-- Academic writing and problem explanation  
-- Supporting students through helpful examples and worked solutions  
-
-These skills translate directly to data science and analytical roles where communication and documentation are essential.
-
 ---
 
 ## Disclaimer
