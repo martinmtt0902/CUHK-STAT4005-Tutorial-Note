@@ -37,6 +37,9 @@ The tutorial materials below were designed to help students develop both intuiti
 | Tutorial07_prediction_sol.pdf | Forecasting and prediction intervals |
 | Tutorial08_garch.pdf | GARCH and volatility modelling |
 | Tutorial09_nonstationary.pdf | Unit roots and non-stationarity |
+| stat4005_mt_2022.pdf | Midterm Fall 2022-23 |
+| stat4005_mt_2023.pdf | Midterm Fall 2023-24 |
+| stat4005_mt_2025.pdf | Midterm Spring 2024-25 |
 
 Each tutorial provides:
 
